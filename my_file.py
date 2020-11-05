@@ -1,4 +1,6 @@
 print('Hi Git')
 
 
-# HERE ARE SOME CHANGES
+# git add .
+# git commit -m "message"
+# git push 
